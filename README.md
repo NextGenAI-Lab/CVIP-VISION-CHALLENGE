@@ -37,6 +37,10 @@ Here’s a quick rundown of the project files and the structure:
 
 CAVE-NET performed exceptionally well, achieving **91.2% accuracy** on both the training and validation datasets. This result reflects CAVE-NET’s ability to handle class imbalance effectively and accurately classify images by integrating image features with high-level representations through its ensemble structure.
 
+## Ranking and Recognition
+
+CAVE-Net secured the 6th position among over 150 teams worldwide in the Capsule Vision 2024 Challenge, achieving a mean AUC score of 0.7271482 and a balanced accuracy score of 0.3359341 on the test dataset.
+
 ## Acknowledgements
 
 We’d like to thank the organizers of the CVIP-VISION-CHALLENGE for this exciting opportunity. This challenge allowed us to push the boundaries of what’s possible in medical imaging, and we hope CAVE-NET can contribute meaningfully to this field.
