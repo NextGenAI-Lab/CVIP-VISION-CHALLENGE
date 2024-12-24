@@ -35,7 +35,7 @@ Here’s a quick rundown of the project files and the structure:
 
 ## Results
 
-CAVE-NET performed exceptionally well, achieving **91.2% accuracy** on both the training and validation datasets. This result reflects CAVE-NET’s ability to handle class imbalance effectively and accurately classify images by integrating image features with high-level representations through its ensemble structure.
+CAVE-NET performed exceptionally well, achieving **91.08% balanced accuracy** on training and **89.93% balanced accuracy** on validation datasets. This result reflects CAVE-NET’s ability to handle class imbalance effectively and accurately classify images by integrating image features with high-level representations through its ensemble structure.
 
 ## Ranking and Recognition
 
